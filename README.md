@@ -8,11 +8,11 @@ An NLP-powered project that analyzes Airbnb customer reviews using Transformer-b
 
 ### Sentiment Analysis
 
-![Sentiment Analysis](./sentiment_analysis.png)
+![Sentiment Analysis](./sentiment_analysis(1).png)
 
 ### Review Summarization
 
-![Review Summarization](./review_summarization.png)
+![Review Summarization](./review_summarization(1).png)
 
 ---
 
